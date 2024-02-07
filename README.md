@@ -1,4 +1,4 @@
-# Formik and Form Validation
+# Formik and Form Validation.
 
 ## Learning Goals
 
